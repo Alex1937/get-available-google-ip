@@ -3,6 +3,7 @@
 This is a shell script used for get latest available google ip on mac book. especially useful in china.
 
 Please use like Below:
+
 `sudo -s`
 `sh -x get-google.sh`
 
